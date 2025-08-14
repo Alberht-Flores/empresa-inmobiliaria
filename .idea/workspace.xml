@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa33de7e-8ff3-4c98-9977-76bb53c80a72" name="Changes" comment="hola denuebo">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/MsvcCapaniaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/clients/PropiedadClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/controllers/CampaniaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/controllers/MontoRequerido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/models/Precio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/models/Propiedad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/models/Ubicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/models/Zonificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/models/entities/Campania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/models/entities/ProveedorPublicidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/models/enums/EstadoCampania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/models/enums/MedioPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/models/valueObjects/FechaCampania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/repositories/CampaniaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/services/CampaniaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/java/org/academico/springcloud/msvc/campania/services/CampaniaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-capania/src/test/java/org/academico/springcloud/msvc/campania/MsvcCapaniaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/MsvcCobroApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/controllers/CobroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/models/entities/Cobro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/models/enums/EstadoCobro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/models/enums/MedioPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/models/valueObjects/FechaCobro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/models/valueObjects/MontoCobro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/repositories/CobroRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/services/CobroService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/java/org/academico/springcloud/msvc/cobro/services/CobroServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cobro/src/test/java/org/academico/springcloud/msvc/cobro/MsvcCobroApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/MsvcComisionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/clients/UsuarioClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/clients/VentaClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/controllers/ComisionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/Venta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/entities/Comision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/enums/EstadoComision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/enums/TipoComision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/valueObjects/FechaPagoComision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/valueObjects/MontoComision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/valueObjects/valueObjectsUsuarios/CorreoElectronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/valueObjects/valueObjectsUsuarios/Direccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/valueObjects/valueObjectsUsuarios/NombreCompleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/models/valueObjects/valueObjectsUsuarios/Telefono.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/repositories/ComisionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/services/ComisionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/java/org/academico/springcloud/msvc/comision/services/ComisionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-comision/src/test/java/org/academico/springcloud/msvc/comision/MsvcComisionApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/main/java/org/academico/springcloud/msvc/norma/MsvcNormaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/main/java/org/academico/springcloud/msvc/norma/controllers/NormaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/main/java/org/academico/springcloud/msvc/norma/models/entity/Norma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/main/java/org/academico/springcloud/msvc/norma/models/enums/TipoNorma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/main/java/org/academico/springcloud/msvc/norma/models/valueobjects/Fecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/main/java/org/academico/springcloud/msvc/norma/repositories/NormaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/main/java/org/academico/springcloud/msvc/norma/services/NormaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/main/java/org/academico/springcloud/msvc/norma/services/NormaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-norma/src/test/java/org/academico/springcloud/msvc/norma/MsvcNormaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/MsvcPreventaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/clients/PropiedadClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/clients/UsuarioClientsRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/controllers/PreventaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/PropiedadInmobiliaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/ContratoVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/Preventa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/PropuestaPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/VisitaProgramada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/entityPropiedades/DocumentoLegal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/entityPropiedades/Expediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/entityPropiedades/Norma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/entityPropiedades/Plano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/entityPropiedades/PropiedadInmobiliariaNorma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/entity/entityPropiedades/Servicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/EstadoPreventa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/EstadoVisita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/MetodoPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/TipoContrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/EstadoDocumentoLegal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/EstadoExpediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/EstadoPlano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/EstadoPropiedad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/EstadoServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/TipoDocumentoLegal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/TipoExpediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/TipoNorma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/TipoPlano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/TipoPropiedad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/enums/enumsPropiedades/TipoServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/valueObjects/Fecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/valueObjects/Precio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/valueObjects/Ubicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/models/valueObjects/Zonificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/repositories/PreventaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/services/PreventaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/java/org/academico/springcloud/msvc/preventa/services/PreventaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-preventa/src/test/java/org/academico/springcloud/msvc/preventa/MsvcPreventaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/MsvcPropiedadesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/clients/InmobiliariaClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/controllers/PropiedadInmobiliariaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/Norma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/entitys/DocumentoLegal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/entitys/Expediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/entitys/Plano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/entitys/PropiedadInmobiliaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/entitys/PropiedadInmobiliariaNorma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/entitys/Servicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/EstadoDocumentoLegal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/EstadoExpediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/EstadoPlano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/EstadoPropiedad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/EstadoServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/TipoDocumentoLegal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/TipoExpediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/TipoNorma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/TipoPlano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/TipoPropiedad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/enums/TipoServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/valueObjects/Fecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/valueObjects/Precio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/valueObjects/Ubicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/models/valueObjects/Zonificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/repositories/PropiedadInmobiliariaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/services/PropiedadInmobiliariaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/java/org/inmobiliaria/springcloud/msvc/propiedades/services/PropiedadInmobiliariaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-propiedades/src/test/java/org/inmobiliaria/springcloud/msvc/propiedades/MsvcPropiedadesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/MsvcUsuariosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/controllers/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/models/entities/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/models/enums/TipoUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/models/valueObjects/CorreoElectronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/models/valueObjects/Direccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/models/valueObjects/NombreCompleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/models/valueObjects/Telefono.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/repositories/UsuarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/services/UsuarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/academico/springcloud/msvc/usuario/services/UsuarioServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/test/java/org/academico/springcloud/msvc/usuario/MsvcUsuariosApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/MsvcVentaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/clients/PreventaClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/controllers/VentaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/Preventa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/entities/DetalleVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/entities/Venta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/enums/EstadoDetalle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/enums/EstadoVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/enums/FrecuenciaPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/enums/MetodoPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/enums/TipoVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/valueObjects/CronogramaPago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/valueObjects/FechaVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/models/valueObjects/PrecioVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/repositories/VentaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/services/VentaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/java/org/academico/springcloud/msvc/venta/services/VentaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-venta/src/test/java/org/academico/springcloud/msvc/venta/MsvcVentaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/academico/springcloud/msvc/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alberht-Flores&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Alberht-Flores/empresa-inmobiliaria.git",
+    "accountId": "6afb8302-5c26-4770-9705-62c018d44fc0"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="30P9vbcu6NY3f9NNaQJ0mjlQJr2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MsvcComisionApplication.executor": "Run",
+    "Application.MsvcPreventaApplication.executor": "Run",
+    "Application.MsvcPropiedadesApplication.executor": "Run",
+    "Application.MsvcUsuariosApplication.executor": "Run",
+    "Application.MsvcVentaApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_directory_selection": "C:/ProyectosINW - II/empresa-inmobiliaria/msvc-preventa/src/main/java/org",
+    "last_opened_file_path": "C:/ProyectosISW-II/proyecto hexagonal/empresa-inmobiliaria"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProyectosINW - II\empresa-inmobiliaria\msvc-comision\src\main\java\org\academico\springcloud\msvc\comision\models\valueObjects\valueObjectsUsuarios" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="empresa-inmobiliaria" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="empresa-inmobiliaria" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa33de7e-8ff3-4c98-9977-76bb53c80a72" name="Changes" comment="" />
+      <created>1753518572630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753518572630</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Relacion de usuario con comisión&#10;y relacion de propiedad con preventa">
+      <option name="closed" value="true" />
+      <created>1753824328884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753824328884</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Relacion de usuario con comisión&#10;y relacion de propiedad con preventa">
+      <option name="closed" value="true" />
+      <created>1753824352422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753824352422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Relacion de usuario con comisión&#10;y relacion de propiedad con preventa" />
+    <MESSAGE value="hola denuebo" />
+    <option name="LAST_COMMIT_MESSAGE" value="hola denuebo" />
+  </component>
+</project>
